@@ -1,8 +1,9 @@
-# IRIS STAFFOLOGY - Test Automation using RestSharp + Selenium with SpecFlow (C#)
+# IRIS STAFFOLOGY - TEST AUTOMATION
 
 ## Overview
 
 In Staffology, there are 3 different layers in scope for test automation, as mentioned below:
+
 	1. API (RestAPIs)
 	2. Web (.net application)
 	3. Sharpe Engine (nuget package)
@@ -15,27 +16,28 @@ Following test libraries and technologies are used for automation of Staffology 
 	1. API Layer: RestSharp
 	2. Web Layer: Selenium Webdriver
 	3. Sharpe Engine: C# Coding
+	
 ### Other Libraries and Technologies
-	TestCase Writing		: SpecFlow (Behavior Driven Testing)
-	Unit Testing Framework	: MSTest
-	Assertion Library		: FluentAssertions
-	Continuous Integration	: Azure DevOps
-	Config files			: .JSON files
-	Reporting				: Extent Reports
-	Logging					: NLog
-	JSON Framework			: NewtonSoft.JSON
-	Dependent Test Framework: Iris.Payroll.Core.TestFramework
-	Dependent Nuget Package	: Staffology.Payroll (Sharpe Engine)
+	TestCase Writing			: SpecFlow (Behavior Driven Testing)
+	Unit Testing Framework		: MSTest
+	Assertion Library			: FluentAssertions
+	Continuous Integration		: Azure DevOps
+	Config files				: .JSON files
+	Reporting					: Extent Reports
+	Logging						: NLog
+	JSON Framework				: NewtonSoft.JSON
+	Dependent Test Framework	: Iris.Payroll.Core.TestFramework
+	Dependent Nuget Package		: Staffology.Payroll (Sharpe Engine)
 	
 ## Test Automation Framework Architecture
 
 ### Architecture
 ![alt text][snapshot]
-[snapshot]: https://github.com/ylnagaraj/CommonFramework.git/IRIS_Staffology-TestAutomationFramework_Architecture.png "Staffology Test Framework"
+[snapshot]: https://github.com/ylnagaraj/CommonFramework/IRIS_Staffology-TestAutomationFramework_Architecture.png "Staffology Test Framework"
 
 ### Project Structure in the Solution
 ![alt text][snapshot]
-[snapshot]: https://github.com/ylnagaraj/CommonFramework.git/ProjectStructure.jpg "Project Structure"
+[snapshot]: https://github.com/ylnagaraj/CommonFramework/ProjectStructure.jpg "Project Structure"
 
 ## Setup
 
