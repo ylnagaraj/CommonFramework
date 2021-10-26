@@ -33,11 +33,11 @@ Following test libraries and technologies are used for automation of Staffology 
 
 ### Architecture
 ![alt text][snapshot]
-[snapshot]: https://github.com/ylnagaraj/CommonFramework/IRIS_Staffology-TestAutomationFramework_Architecture.png "Staffology Test Framework"
+[snapshot]: https://github.com/ylnagaraj/CommonFramework/blob/master/IRIS_Staffology-TestAutomationFramework_Architecture.png "Staffology Test Framework"
 
 ### Project Structure in the Solution
 ![alt text][snapshot]
-[snapshot]: https://github.com/ylnagaraj/CommonFramework/ProjectStructure.jpg "Project Structure"
+[snapshot]: https://github.com/ylnagaraj/CommonFramework/blob/master/ProjectStructure.jpg "Project Structure"
 
 ## Setup
 
